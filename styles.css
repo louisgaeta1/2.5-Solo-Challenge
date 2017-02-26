@@ -1,3 +1,51 @@
 body{
-	background-color: blue;
+	background-color: yellow;
+}
+
+.center{
+	text-align: center;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	margin-top: 20px;
+	padding: 0;
+}
+
+nav ul li{
+	background-color: black;
+	color: white;
+	display: inline;
+	padding: 3px;
+}
+
+table{
+	margin: 0 auto;
+	background-image :url(https://static.vecteezy.com/system/resources/previews/000/106/719/original/vector-abstract-blue-wave-background.jpg);
+	background-size: contain;
+	font-family: helvetica;
+	font-weight: bold;
+}
+
+td, th {
+	padding: 5px;
+}
+
+li a:visited {
+	color:white;
+}
+
+a:visited{
+	color: red;
+}
+
+#IGN {
+	width: 40%;
+	padding: 15px;
+	border: 5px solid blue;
+}
+
+#heading{
+	color: purple;
 }
