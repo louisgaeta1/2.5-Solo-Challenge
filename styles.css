@@ -49,3 +49,19 @@ a:visited{
 #heading{
 	color: purple;
 }
+
+
+
+@media screen and (max-width: 630px){
+	td, th {
+		font-size: .8em;
+	}
+}
+
+@media screen and (max-width: 920px){
+	#IGN {
+		width: 50%;
+	}
+}
+
+
